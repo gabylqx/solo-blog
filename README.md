@@ -10,7 +10,8 @@ gabylqx 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.liqixuan.cn/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.liqixuan.cn/my-github-repos)
+* [世界，你好！](https://www.liqixuan.cn/hello-solo)
 
 
 
