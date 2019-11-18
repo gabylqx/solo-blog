@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [docker 安装 solo 博客 记录](https://www.liqixuan.cn/articles/2019/11/18/1574054359234.html)
 * [mysql  [Err] 1055报错解决，[Err] 1055 – Expression #1 of ORDER BY clause is not in GROUP BY](https://www.liqixuan.cn/articles/2019/11/11/1573439011069.html)
 * [我在 GitHub 上的开源项目](https://www.liqixuan.cn/my-github-repos)
 * [【Docker学习之路（一）】CentOS Docker 安装](https://www.liqixuan.cn/articles/2019/11/09/1573306138202.html)
